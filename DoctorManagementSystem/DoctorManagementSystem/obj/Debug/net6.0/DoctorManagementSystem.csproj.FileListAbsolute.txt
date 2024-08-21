@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\DoctorManagementSystem\DoctorManagementSystem\bin\Debug\net6.0\DoctorManagementSystem.exe
+C:\Users\Administrator\source\repos\DoctorManagementSystem\DoctorManagementSystem\bin\Debug\net6.0\DoctorManagementSystem.deps.json
+C:\Users\Administrator\source\repos\DoctorManagementSystem\DoctorManagementSystem\bin\Debug\net6.0\DoctorManagementSystem.runtimeconfig.json
+C:\Users\Administrator\source\repos\DoctorManagementSystem\DoctorManagementSystem\bin\Debug\net6.0\DoctorManagementSystem.dll
+C:\Users\Administrator\source\repos\DoctorManagementSystem\DoctorManagementSystem\bin\Debug\net6.0\DoctorManagementSystem.pdb
+C:\Users\Administrator\source\repos\DoctorManagementSystem\DoctorManagementSystem\obj\Debug\net6.0\DoctorManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\DoctorManagementSystem\DoctorManagementSystem\obj\Debug\net6.0\DoctorManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\DoctorManagementSystem\DoctorManagementSystem\obj\Debug\net6.0\DoctorManagementSystem.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\DoctorManagementSystem\DoctorManagementSystem\obj\Debug\net6.0\DoctorManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\DoctorManagementSystem\DoctorManagementSystem\obj\Debug\net6.0\DoctorManagementSystem.dll
+C:\Users\Administrator\source\repos\DoctorManagementSystem\DoctorManagementSystem\obj\Debug\net6.0\refint\DoctorManagementSystem.dll
+C:\Users\Administrator\source\repos\DoctorManagementSystem\DoctorManagementSystem\obj\Debug\net6.0\DoctorManagementSystem.pdb
+C:\Users\Administrator\source\repos\DoctorManagementSystem\DoctorManagementSystem\obj\Debug\net6.0\DoctorManagementSystem.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\DoctorManagementSystem\DoctorManagementSystem\obj\Debug\net6.0\ref\DoctorManagementSystem.dll
