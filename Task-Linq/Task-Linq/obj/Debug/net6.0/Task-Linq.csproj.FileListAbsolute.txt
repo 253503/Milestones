@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Task-Linq\Task-Linq\bin\Debug\net6.0\Task-Linq.exe
+C:\Users\Administrator\source\repos\Task-Linq\Task-Linq\bin\Debug\net6.0\Task-Linq.deps.json
+C:\Users\Administrator\source\repos\Task-Linq\Task-Linq\bin\Debug\net6.0\Task-Linq.runtimeconfig.json
+C:\Users\Administrator\source\repos\Task-Linq\Task-Linq\bin\Debug\net6.0\Task-Linq.dll
+C:\Users\Administrator\source\repos\Task-Linq\Task-Linq\bin\Debug\net6.0\Task-Linq.pdb
+C:\Users\Administrator\source\repos\Task-Linq\Task-Linq\obj\Debug\net6.0\Task-Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Task-Linq\Task-Linq\obj\Debug\net6.0\Task-Linq.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Task-Linq\Task-Linq\obj\Debug\net6.0\Task-Linq.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Task-Linq\Task-Linq\obj\Debug\net6.0\Task-Linq.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Task-Linq\Task-Linq\obj\Debug\net6.0\Task-Linq.dll
+C:\Users\Administrator\source\repos\Task-Linq\Task-Linq\obj\Debug\net6.0\refint\Task-Linq.dll
+C:\Users\Administrator\source\repos\Task-Linq\Task-Linq\obj\Debug\net6.0\Task-Linq.pdb
+C:\Users\Administrator\source\repos\Task-Linq\Task-Linq\obj\Debug\net6.0\Task-Linq.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Task-Linq\Task-Linq\obj\Debug\net6.0\ref\Task-Linq.dll
