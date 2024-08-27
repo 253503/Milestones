@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\Task-FileLogs\Task-FileLogs\bin\Debug\net6.0\Task-FileLogs.exe
+C:\Users\Administrator\source\repos\Task-FileLogs\Task-FileLogs\bin\Debug\net6.0\Task-FileLogs.deps.json
+C:\Users\Administrator\source\repos\Task-FileLogs\Task-FileLogs\bin\Debug\net6.0\Task-FileLogs.runtimeconfig.json
+C:\Users\Administrator\source\repos\Task-FileLogs\Task-FileLogs\bin\Debug\net6.0\Task-FileLogs.dll
+C:\Users\Administrator\source\repos\Task-FileLogs\Task-FileLogs\bin\Debug\net6.0\Task-FileLogs.pdb
+C:\Users\Administrator\source\repos\Task-FileLogs\Task-FileLogs\obj\Debug\net6.0\Task-FileLogs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Task-FileLogs\Task-FileLogs\obj\Debug\net6.0\Task-FileLogs.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Task-FileLogs\Task-FileLogs\obj\Debug\net6.0\Task-FileLogs.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Task-FileLogs\Task-FileLogs\obj\Debug\net6.0\Task-FileLogs.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Task-FileLogs\Task-FileLogs\obj\Debug\net6.0\Task-FileLogs.dll
+C:\Users\Administrator\source\repos\Task-FileLogs\Task-FileLogs\obj\Debug\net6.0\refint\Task-FileLogs.dll
+C:\Users\Administrator\source\repos\Task-FileLogs\Task-FileLogs\obj\Debug\net6.0\Task-FileLogs.pdb
+C:\Users\Administrator\source\repos\Task-FileLogs\Task-FileLogs\obj\Debug\net6.0\Task-FileLogs.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Task-FileLogs\Task-FileLogs\obj\Debug\net6.0\ref\Task-FileLogs.dll
+C:\Users\Administrator\source\repos\Task-FileLogs\Task-FileLogs\obj\Debug\net6.0\Task-FileLogs.csproj.AssemblyReference.cache
