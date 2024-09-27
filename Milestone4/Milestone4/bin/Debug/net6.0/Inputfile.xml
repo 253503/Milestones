@@ -1,0 +1,7 @@
+﻿<restaurants>
+    <restaurant>
+        <name>Pizza Place</name>
+        <address>123 Main St</address>
+        <rating>4.5</rating>
+    </restaurant>
+</restaurants>
