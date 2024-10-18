@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "x59R0Gmt0igSTMm8XKGm6PPd2IBeO7jdWXHzSv630yBh/qip5ZXb048vgKAvY1BfJwQ/9mFzN5bRdUlkDQ8BnA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\Milestone6_Win32\\Milestone6_Win32\\Milestone6_Win32.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\dynamiclanguageruntime\\1.3.4\\dynamiclanguageruntime.1.3.4.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\ironpython\\3.4.1\\ironpython.3.4.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\mono.unix\\7.1.0-final.1.21458.1\\mono.unix.7.1.0-final.1.21458.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
