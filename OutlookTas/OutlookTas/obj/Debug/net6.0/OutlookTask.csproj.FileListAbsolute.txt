@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\OutlookTas\OutlookTas\obj\Debug\net6.0\OutlookTask.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\OutlookTas\OutlookTas\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Outlook.dll
+C:\Users\Administrator\source\repos\OutlookTas\OutlookTas\obj\Debug\net6.0\OutlookTask.csproj.ResolveComReference.cache
+C:\Users\Administrator\source\repos\OutlookTas\OutlookTas\obj\Debug\net6.0\OutlookTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\OutlookTas\OutlookTas\obj\Debug\net6.0\OutlookTask.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\OutlookTas\OutlookTas\obj\Debug\net6.0\OutlookTask.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\OutlookTas\OutlookTas\obj\Debug\net6.0\OutlookTask.csproj.CoreCompileInputs.cache
